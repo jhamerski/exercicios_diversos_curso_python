@@ -1,15 +1,19 @@
 """
-Faça um programa que leia um vetor de 10 posições e verifique se existem valores iguais, e os escreva na tela
+Faça um programa que preencha um vetor de 10 números reais, calcule e mostre a quantidade de números negativos e a soma
+dos positivos desse vetor
 """
-vetor = []
-iguais = []
+
+lista = []
 
 for i in range(1, 11):
-    vetor.append(int(input(f'Informe o {i}° elemento: ')))
+    lista.append(int(input(f'Informe o {i} numero: ')))
 
-for i in range(1, 11):
-    for j in range(1, 11):
-        if vetor[i] == vetor[j]:
-            iguais.append(vetor[i])
+contador = 0
+soma_positiva = 0
+for i in range(10):
+    if lista[i] < 0:
+        contador += 1
+    else:
+        soma_positiva = soma_positiva + lista[i]
 
-print(iguais)
+print(f'O vetor tem {contador} números negativos. A soma dos positivos foi de: {soma_positiva}')
