@@ -48,3 +48,4 @@
    - Lambdas
    - Map
    - Filter
+   - Reduce
