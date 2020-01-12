@@ -49,3 +49,4 @@
    - Map
    - Filter
    - Reduce
+   - Any e All
