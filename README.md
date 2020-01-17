@@ -50,3 +50,5 @@
    - Filter
    - Reduce
    - Any e All
+   - Generators Expression
+   
