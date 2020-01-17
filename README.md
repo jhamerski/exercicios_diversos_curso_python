@@ -51,4 +51,4 @@
    - Reduce
    - Any e All
    - Generators Expression
-   
+   - Sorted
