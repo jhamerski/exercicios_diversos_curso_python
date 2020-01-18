@@ -53,3 +53,4 @@
    - Generators Expression
    - Sorted
    - Min e Max
+   - Reversed
