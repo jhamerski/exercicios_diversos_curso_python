@@ -32,7 +32,7 @@ def colore_outro(texto, cor):
     if type(cor) is not str:
         raise TypeError('O texto precisa ser uma string')
     if cor not in cores:
-        raise ValueError(f'A cor precisa uma entre: {cores}')
+        raise ValueError(f'A cor precisa ser uma entre: {cores}')
     print('Depois do raise. Nunca será executado.')
     print(f'O texto {texto} será impresso na cor {cor}.')
 
