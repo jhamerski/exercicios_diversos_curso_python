@@ -56,3 +56,4 @@
    - Reversed
    - Len, Abs, Sum e Round
    - Zip
+   - Erros mais comuns
