@@ -56,4 +56,6 @@
    - Reversed
    - Len, Abs, Sum e Round
    - Zip
-   - Erros mais comuns
+9. **Nona Seção: DEBUGANDO E TRATANDO ERROS**
+   - Erros mais comuns em Python
+   - Raise (Levantando os próprios erros)
