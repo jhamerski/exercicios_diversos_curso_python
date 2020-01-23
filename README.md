@@ -61,3 +61,7 @@
    - Raise (Levantando os próprios erros)
    - Try/Except
    - Try/Except/Else/Finally
+   - Debugando código com pdb()
+10. **Décima Seção: TRABALHANDO COM MÓDULOS**
+    - Módulo random
+   
