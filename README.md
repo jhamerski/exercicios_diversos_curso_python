@@ -64,4 +64,6 @@
    - Debugando código com pdb()
 10. **Décima Seção: TRABALHANDO COM MÓDULOS**
     - Módulo random
+    - Módulo Built-In
+    - Módulo customizado
    
