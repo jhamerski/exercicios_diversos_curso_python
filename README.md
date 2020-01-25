@@ -28,6 +28,7 @@
    - Collections
       - Counter
       - Default Dict
+      - Ordered Dict
       - Named Tuple
       - Deque
 6. **Sexta Seção: FUNÇÔES**
