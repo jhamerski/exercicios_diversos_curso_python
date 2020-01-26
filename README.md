@@ -28,6 +28,7 @@
    - Collections
       - Counter
       - Default Dict
+      - Ordered Dict
       - Named Tuple
       - Deque
 6. **Sexta Seção: FUNÇÔES**
@@ -67,4 +68,6 @@
     - Módulo Built-In
     - Módulo customizado
     - Módulo externo
+    - Pacotes
+    - Dunber Main e Dunber Name
    
