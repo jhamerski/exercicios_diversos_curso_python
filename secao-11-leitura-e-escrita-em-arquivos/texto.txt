@@ -1,0 +1,4 @@
+Estou lendo um arquivo criado do tipo .txt
+Agora estou na segunda linha
+Fui para a terceira linha
+E agora finalizo o texto

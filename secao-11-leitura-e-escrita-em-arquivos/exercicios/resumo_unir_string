@@ -1,0 +1,29 @@
+Unir Strings: Método join()
+Vamos supor que temos a lista:
+lista = ['Curso','Python','Progressivo']
+
+Se usarmos: ','.join(lista)
+Ele vai unir cada string da lista, colocando uma vírgula entre as strings.
+
+O resultado é uma string só:
+"Curso,Python,Progressivo"
+
+É mais interessante unir essas palavras com espaço em branco.
+Então fazemos: ' '.join(lista)
+
+O resultado é a string: "Curso Python Progressivo".
+
+Teste o código:
+
+lista=['Curso','Python','Progressivo']
+
+#Unindo as palavras com vírgula
+print( ','.join(lista) )
+
+#Unindo as palavras com espaço
+print( ' '.join(lista) )
+
+Ou seja, o comando: ch.join(lista)
+
+
+Ele vai pegar cada elemento da lista lista e grudar um no outro com o caractere ch unindo eles.
