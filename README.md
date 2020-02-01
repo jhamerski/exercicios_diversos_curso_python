@@ -90,4 +90,7 @@
     - Funções de Maior Grandeza
     - Decoradores
     - Decoradores com Diferentes Assinaturas
-    - 
+    - Preservando Métadatas com Wraps
+    - Forçando Tipo de Dados com Decorador
+14. **Décima Quarta Seção: ORIENTAÇÃO A OBJETOS**
+    - O que é orientação a objetos
