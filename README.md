@@ -3,7 +3,7 @@
 
 1. **Primeira Seção: INTRODUÇÃO À LINGUAGEM** 
    - PEP8
-   - Dir e help
+   - Dir e Help
    - Recebendo dados do usuário
 2. **Segunda Seção: VARIÁVEIS E TIPOS DE DADOS**
    - Tipo numérico
@@ -12,12 +12,12 @@
    - Tipo string
    - Escopo de variáveis
 3. **Terceira Seção: ESTRUTURAS LÓGICAS E CONDICIONAIS**
-   - If, else, elsif
-   - And, or, not, is
+   - If, Else, Elsif
+   - And, Or, Not, Is
 4. **Quarta Seção: ESRUTURAS DE REPETIÇÃO**
    - Loop for
    - Rangers
-   - Loop While
+   - Loop while
    - Saindo do loop com Break
 5. **Quinta Seção: COLEÇÕES**
    - Listas
@@ -72,3 +72,22 @@
     - Dunber Main e Dunber Name
 11. **Décima Primeira Seção: LEITURA E ESCRITA EM ARQUIVOS**
     - Leitura de arquivos
+    - Seek e Cursors
+    - With
+    - Escrever em arquivos
+    - Modos de arquivos
+    - StringIO
+    - Sistema de arquivos: Navegação
+    - Sistama de arquivos: Manipulação
+12. **Décima Segunda Seção: ITERADORES E GERADORES**
+    - Entendendo Iteradores e Iteráveis
+    - Criando Loops
+    - Iterador Customizado
+    - Geradores
+    - Teste de Memória
+    - Teste de Velocidade
+13. **Décima Terceira Seção: DECORADORES**
+    - Funções de Maior Grandeza
+    - Decoradores
+    - Decoradores com Diferentes Assinaturas
+    - 
