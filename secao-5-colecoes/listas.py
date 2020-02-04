@@ -33,7 +33,7 @@ print(lista1)
 # Podemos contar as ocorrências de um determinado valor
 print(lista5.count('a'))
 
-# Adicionar elementos, utilizamos a funcao append() 'acescentar' OBS: Apenas um elemento por cada vez
+# Adicionar elementos, utilizamos a funcao append() 'acrescentar' OBS: Apenas um elemento por cada vez
 # ERRADO lista5.append('1', '2', '3')
 lista5.append('!')
 print(lista5)
