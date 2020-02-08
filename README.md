@@ -99,3 +99,23 @@
     - Métodos
     - Objetos
     - Abstração e Encapsulamento
+15. **Décima Quinta Seção: HERANÇA E POLIMORFISMO**
+    - Herança
+    - Propriedades
+    - Método Super
+    - Herança Múltipla
+    - MRO: Method Resolution Order
+    - Polimorfismo
+    - Métodos Mágicos
+16. **Décima Sexta Seção: MANIPULANDO ARQUIVOS .CSV E .JSON**
+    - Lendo arquivos .csv
+    - Escrevendo em arquivos .csv
+    - Conhecendo o Pickle
+    - Trabalhando com .json e Pickle
+17. **Décima Sétima Seção: TRABALHANDO COM DATA E HORA**
+    - Manipulando Data/Hora
+    - Deltas de Data/Hora
+    - Métodos Data/Hora
+18. **Décima Oitava Seção: TESTES**
+    - Porque Testar o Código
+    - Assertions (Afirmações)
