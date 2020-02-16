@@ -119,3 +119,4 @@
 18. **Décima Oitava Seção: TESTES**
     - Porque Testar o Código
     - Assertions (Afirmações)
+    - Doctests
